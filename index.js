@@ -25,6 +25,29 @@ const nestedMuppet = {
   nestedPartner: 'Miss Piggy'
 };
 
+
+const [moo,neigh,baa,oink,cluck] =['cow','horse','sheep','pig','chicken']
+
+const [bessie,dolly,babe,little] =['cow','sheep','pig','chicken']
+
+const [blackAndWhite,black,pink] =['cow','sheep','pig']
+
+const colorName= ['red','orange','yellow', 'green', 'blue', 'indigo', 'violet']
+
+const [red,orange,yellow,green,blue,indigo,violet] =colorName
+
+const colorLetter=['red','orange','yellow', 'green', 'blue', 'violet']
+
+const [r,o,y,g,b,v] =colorLetter
+
+const colorName2=['indigo']
+
+const [indg] =colorName2
+
+const [muppetName,color,song,job,partner] =['Miss Piggy','pink','Never Before\, Never Again', 'Cast member of The Muppet Show', 'Kermit']
+
+const [song2,song4,nestedJob,nestedPartner] =['Moving Right Along','I Hope That Something Better Comes Along','Host of The Muppet Show', 'Miss Piggy']
+
 // Strings
 
 // 1. Use destructuring to assign appropriate variables based on the sounds animals make.
